@@ -1,0 +1,2 @@
+# Dependencies for scripts/update_index.py
+pyyaml>=6.0
